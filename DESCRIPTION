@@ -1,0 +1,17 @@
+Package: tlmec
+Type: Package
+Title: Linear Student-t Mixed-Effects Models with Censored Data
+Version: 0.0-3
+Date: 2011-12-01
+Author: Larissa Matos <larissa.amatos@gmail.com>, Marcos Prates
+        <marcosop@ime.unicamp.br> and Victor Lachos
+        <hlachos@ime.unicamp.br>
+Depends: R (>= 1.9.0)
+Maintainer: Larissa Matos <larissa.amatos@gmail.com>
+Description: Fit a linear mixed effects model for censored data with
+        Student-t or normal distributions. The errors are assumed
+        independent and identically distributed.
+License: MIT + file LICENSE
+LazyLoad: yes
+Repository: CRAN
+Imports: mvtnorm
