@@ -1,7 +1,7 @@
 Package: tlmec
 Type: Package
 Title: Linear Student-t Mixed-Effects Models with Censored Data
-Version: 0.0-3
+Version: 0.0-4
 Author: Larissa Matos <larissa.amatos@gmail.com>, Marcos Prates
         <marcosop@ime.unicamp.br> and Victor Lachos
         <hlachos@ime.unicamp.br>
